@@ -1,10 +1,29 @@
 ssh
-
-#Creo el readme.md primero en github
-
-Flujo normal:
+Flujo normal
 
 - git init
+- touch .gitignore (**/DS.Store)
+- En Github creo repo vacio
+
+Primero
+
+creo archivos en mi carpeta
+git st
+Deberías ver los archivos nuevos del proyecto como untracked files.
+git add .
+git status
+git commit -m "Agrego primer proyecto Java"
+Verifica que tu rama se llame main:
+git branch (* main) (Si todavía dijera master, cámbiala: git branch -M main)
+
+git remote add origin git@github.com:*****/poo1.git
+Comprueba que quedó conectado: git remote -v
+(origin...
+(origin...
+
+git push -u origin main
+
+RUTINA
 
 - git st*
 - git add .
