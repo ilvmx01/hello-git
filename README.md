@@ -4,6 +4,8 @@ ssh
 
 Flujo normal:
 
+- git init
+
 - git st*
 - git add .
 - git commit -m "Descripción del cambio"
