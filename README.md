@@ -22,3 +22,9 @@ Y para ver tu historial con el alias que creamos:
 
 - git fetch (historial de cambios)
 - git pull (historial de cambios y los cambios)
+
+
+//
+
+- git clone (link repositorios)
+- git fork (colaboracion revisada)
