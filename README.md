@@ -26,5 +26,5 @@ Y para ver tu historial con el alias que creamos:
 
 //
 
-- git clone (link repositorios)
-- git fork (colaboracion revisada)
+- git clone (copia repositorios-mismo link)
+- git fork (copia repositorios-info en otro repositorio)
