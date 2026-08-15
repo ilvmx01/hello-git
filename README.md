@@ -4,7 +4,7 @@ ssh
 
 Flujo normal:
 
-- git status
+- git st*
 - git add .
 - git commit -m "Descripción del cambio"
 - git push
@@ -15,7 +15,7 @@ Git quedó enlazado con origin/main, así que en los siguientes cambios normalme
 - git push
 
 Y para ver tu historial con el alias que creamos:
-- git tree
+- git tree*
 
 
 // Descargar a local 
