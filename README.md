@@ -17,3 +17,8 @@ Git quedó enlazado con origin/main, así que en los siguientes cambios normalme
 Y para ver tu historial con el alias que creamos:
 - git tree
 
+
+// Descargar a local 
+
+- git fetch (historial de cambios)
+- git pull (historial de cambios y los cambios)
