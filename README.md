@@ -8,20 +8,27 @@ Flujo normal
 Primero
 
 creo archivos en mi carpeta
-git st
+- git st
+
 Deberías ver los archivos nuevos del proyecto como untracked files.
-git add .
-git status
-git commit -m "Agrego primer proyecto Java"
+- git add .
+- git status
+- git commit -m "Agrego primer proyecto Java"
+
 Verifica que tu rama se llame main:
-git branch (* main) (Si todavía dijera master, cámbiala: git branch -M main)
+- git branch (* main) (Si todavía dijera master, cámbiala: git branch -M main)
 
-git remote add origin git@github.com:*****/poo1.git
-Comprueba que quedó conectado: git remote -v
+- git remote add origin git@github.com:*****/poo1.git
+
+Comprueba que quedó conectado: 
+
+- git remote -v
+
 (origin...
 (origin...
 
-git push -u origin main
+- git push -u origin main
+
 
 RUTINA
 
